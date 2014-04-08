@@ -1,3 +1,9 @@
+# Ruby on Rails Tutorial: first application (line 1 - 5 added before orignal readme.rdoc)
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+
 == README
 
 This README would normally document whatever steps are necessary to get the
