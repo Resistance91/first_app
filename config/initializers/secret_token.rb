@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-FirstApp::Application.config.secret_key_base = 'f982da4d54b414316967069f8bc8f724f709e1da8c93dca9edb770b266d0c77b317d33c1e41d9d6404912ffb6ca9c2a75b48b81a5a8a53b89357a574dcf51240'
+FirstApp::Application.config.secret_key_base = '950f03a1874258314dfe4741375439eb37204c349d1c327ced0bf36fce6f2878f7c6be74fde52b5cb83a9055c630bed9991f0a8f744bc9187045e326b04f292c'
